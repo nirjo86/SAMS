@@ -1,0 +1,24 @@
+- Getting Started
+  - [Overview](readme.md)
+  - [Quick Start](quick-start.md)
+  - [Workflow](workflow.md)
+  - [Concepts](concepts.md)
+  - [Showcase](showcase.md)
+  - [Mission](mission.md)
+
+- Platform
+  - [CLI](cli.md)
+  - [Configuration](configuration.md)
+  - [Functions](functions.md)
+  - [Services](services.md)
+  - [FaaS IDs](faas-ids.md)
+  - [Env Vars & Secrets](env-vars-and-secrets.md)
+  - [SaaS Client](saas-client.md)
+  - [CORS](cors.md)
+  - [Pricing](pricing.md)
+
+- Support
+  - [Support](support.md)
+  - [Roadmap](roadmap.md)
+  - [Open Source](open-source.md)
+  - [Enterprise](enterprise.md)
